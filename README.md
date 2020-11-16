@@ -1,2 +1,2 @@
 # rock-paper-...
-سنگ کاغذ قیچی
+Rock Paper Scissors
